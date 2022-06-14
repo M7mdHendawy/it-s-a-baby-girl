@@ -15,15 +15,15 @@ function App() {
         <div className="row">
           {names.female.map((name) => (
             <div className="col-md-3">
-              <li key={name.id}>{name} هشام بكرى</li>
+              <li key={name.id}>{name} اسلام دكرورى </li>
             </div>
           ))}
         </div>
       </ul>
       <footer className="d-flex justify-content-center">
         <a href="https://www.facebook.com/Moha.Hendawy" className="text-capitalize text-center d-block h3">henda@wy</a>
-        <h4>        😜😂   حاجه بسيطه يا اتش انت اخونا الصغير 
-</h4>
+        <h4>         حاجه بسيطه يا ديكوو انت و منال
+        </h4>
       </footer>
     </div>
   );
